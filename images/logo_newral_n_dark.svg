@@ -29,7 +29,7 @@
   <defs
      id="defs260" />
   <sodipodi:namedview
-     pagecolor="#ffffff"
+     pagecolor="#000000"
      bordercolor="#666666"
      borderopacity="1"
      objecttolerance="10"
@@ -37,18 +37,19 @@
      guidetolerance="10"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:window-width="1680"
-     inkscape:window-height="1013"
+     inkscape:window-width="1304"
+     inkscape:window-height="704"
      id="namedview258"
      showgrid="false"
-     inkscape:zoom="5.6568543"
-     inkscape:cx="77.269524"
-     inkscape:cy="43.421757"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:zoom="4"
+     inkscape:cx="85.421147"
+     inkscape:cy="24.095345"
+     inkscape:window-x="1742"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="g264"
-     inkscape:pagecheckerboard="false" />
+     inkscape:pagecheckerboard="false"
+     inkscape:document-rotation="0" />
   <g
      inkscape:groupmode="layer"
      inkscape:label="Image"
@@ -58,18 +59,10 @@
        style="display:inline;fill:#999999;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 2.74614,43.291611 8.012567,0.0036 22.986358,-36.0396553 -8.068799,-0.00187 z"
        id="path1237" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:48px;line-height:1.25;font-family:sans-serif;letter-spacing:-4.31px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-       x="-1.4099983"
-       y="43.292"
-       id="text342"><tspan
-         sodipodi:role="line"
-         id="tspan340"
-         x="-1.4099983"
-         y="43.292"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:52px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';letter-spacing:-4.31px;fill:#ffffff"
-         dx="0">N</tspan></text>
+    <path
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:52px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';letter-spacing:-4.31px;display:inline;fill:#ffffff"
+       d="M 2.75,7.2558594 V 43.292969 h 8.007812 V 19.683594 c 3.050667,3.570666 5.928813,7.367338 8.632813,11.388672 2.704,4.021333 5.216396,8.095369 7.539063,12.220703 h 6.8125 V 7.2558594 H 25.681641 V 28.523438 c -1.248,-1.872002 -2.582573,-3.813553 -4.003907,-5.824219 -1.421333,-2.045334 -2.860406,-4.003 -4.316406,-5.875 C 15.939995,14.917552 14.537057,13.13275 13.150391,11.46875 11.763724,9.8047499 10.497516,8.3998594 9.3535156,7.2558594 Z"
+       id="path89" />
     <circle
        id="path346"
        cx="29.669996"
@@ -80,7 +73,7 @@
        id="path346-4"
        cx="7.25"
        cy="7.25"
-       style="fill:#ffcc00;stroke-width:1.14045"
+       style="display:inline;fill:#ffcc00;stroke-width:1.14045"
        r="7.25" />
     <circle
        id="path346-4-8"
