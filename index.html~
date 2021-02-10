@@ -6,7 +6,7 @@
 
     <!-- SEO Meta Tags -->
     <meta name="description" content="Newral. AI solutions for your business">
-    
+
 
     <!-- OG Meta Tags to improve the way the post looks when you share the page on LinkedIn, Facebook, Google+ -->
 	<meta property="og:site_name" content="" /> <!-- website name -->
@@ -118,8 +118,8 @@
                     <div class="col-lg-12">
                         <div class="text-container">
 			   <div class="text-container">
-                            <h1>NEWRAL <span id="js-rotating">SOLUTIONS, ANALYTICS, AI</span></h1>
-                            <p class="p-heading p-large"> AI solutions for your business.</p>  
+                            <h1>NEWRAL<br><span id="js-rotating">SOLUTIONS, ANALYTICS, AI</span></h1>
+                            <p class="p-heading p-large"> AI solutions for your business</p>
 			    <a class="btn-solid-lg page-scroll" href="#intro">Learn more</a>
                         </div>
                     </div> <!-- end of col -->
@@ -167,8 +167,8 @@
                             <i class="fas fa-graduation-cap fa-stack-1x"></i>
                         </span>
                         <div class="card-body">
-                            <h4 class="card-title">Formation</h4>
-                            <p>We offer formation in data science and machine learning for you or your team. </p>
+                            <h4 class="card-title">Education</h4>
+                            <p>We offer education in data science and machine learning for you or your team. </p>
                         </div>
                     </div>
                     <!-- end of card -->
@@ -222,11 +222,11 @@
                     <!-- Filter -->
                     <div class="button-group filters-button-group">
                         <a class="button is-checked" data-filter="*"><span>SHOW ALL</span></a>
-                        <a class="button" data-filter=".formation"><span>FORMATION</span></a>
+                        <a class="button" data-filter=".education"><span>EDUCATION</span></a>
                         <a class="button" data-filter=".ai"><span>AI CONSULTANCY</span></a>
                         <a class="button" data-filter=".software"><span>SOFTWARE DEVELOPEMENT</span></a>                    </div> <!-- end of button group -->
                     <div class="grid">
-                        <div class="element-item formation">
+                        <div class="element-item education">
                             <a class="popup-with-move-anim" href="#project-1"><div class="element-item-overlay"><span>Learn Data Science</span></div><img src="images/learn.jpg" alt="alternative"></a>
                         </div>
                         <div class="element-item ai">
@@ -247,7 +247,7 @@
                         <div class="element-item ai">
                             <a class="popup-with-move-anim" href="#project-7"><div class="element-item-overlay"><span>Know your client</span></div><img src="images/clients.jpg" alt="alternative"></a>
                         </div>
-                        <div class="element-item ai formation software">
+                        <div class="element-item ai education software">
                             <a class="popup-with-move-anim" href="#project-8"><div class="element-item-overlay"><span>Your idea!</span></div><img src="images/idea.jpg" alt="alternative"></a>
                         </div>
                     </div> <!-- end of grid -->
