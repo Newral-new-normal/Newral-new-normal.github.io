@@ -7,13 +7,16 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.1"
-   id="svg256"
-   width="36.919998"
-   height="50.529999"
-   viewBox="0 0 36.919996 50.529999"
+   inkscape:export-ydpi="190.01471"
+   inkscape:export-xdpi="190.01471"
+   inkscape:export-filename="/home/bsanse/Newral/images/old/logo_newral_name_bright_alt5.png"
+   inkscape:version="1.0.2 (1.0.2+r75+1)"
    sodipodi:docname="logo_newral_n_bright.svg"
-   inkscape:version="1.0.2 (1.0.2+r75+1)">
+   viewBox="0 0 36.919996 50.529999"
+   height="50.529999"
+   width="36.919998"
+   id="svg256"
+   version="1.1">
   <metadata
      id="metadata262">
     <rdf:RDF>
@@ -41,10 +44,10 @@
      inkscape:window-height="704"
      id="namedview258"
      showgrid="false"
-     inkscape:zoom="4"
-     inkscape:cx="85.421147"
-     inkscape:cy="24.095345"
-     inkscape:window-x="1742"
+     inkscape:zoom="4.3858447"
+     inkscape:cx="14.524075"
+     inkscape:cy="39.94227"
+     inkscape:window-x="62"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="g264"
@@ -56,36 +59,36 @@
      id="g264"
      style="display:inline">
     <path
-       style="display:inline;fill:#999999;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="display:inline;fill:#916f8a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 2.74614,43.291611 8.012567,0.0036 22.986358,-36.0396553 -8.068799,-0.00187 z"
        id="path1237" />
     <path
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:52px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';letter-spacing:-4.31px;display:inline;fill:#000000"
-       d="M 2.75,7.2558594 V 43.292969 h 8.007812 V 19.683594 c 3.050667,3.570666 5.928813,7.367338 8.632813,11.388672 2.704,4.021333 5.216396,8.095369 7.539063,12.220703 h 6.8125 V 7.2558594 H 25.681641 V 28.523438 c -1.248,-1.872002 -2.582573,-3.813553 -4.003907,-5.824219 -1.421333,-2.045334 -2.860406,-4.003 -4.316406,-5.875 C 15.939995,14.917552 14.537057,13.13275 13.150391,11.46875 11.763724,9.8047499 10.497516,8.3998594 9.3535156,7.2558594 Z"
-       id="path89" />
+       style="letter-spacing:-1.72px;fill:#000000"
+       d="m 26.930002,43.292 q -3.484,-6.188 -7.54,-12.22 -4.056,-6.032 -8.632,-11.388 V 43.292 H 2.7500017 V 7.2559998 h 6.604 q 1.7160003,1.716 3.7960003,4.2120002 2.08,2.496 4.212,5.356 2.184,2.808 4.316,5.876 2.132,3.016 4.004,5.824 V 7.2559998 h 8.06 V 43.292 Z"
+       id="path109" />
     <circle
        id="path346"
        cx="29.669996"
        cy="7.25"
-       style="display:inline;fill:#ffcc00;stroke-width:1.14045"
+       style="display:inline;fill:#c837ab;stroke-width:1.14045"
        r="7.25" />
     <circle
        id="path346-4"
        cx="7.25"
        cy="7.25"
-       style="display:inline;fill:#ffcc00;stroke-width:1.14045"
+       style="fill:#c837ab;stroke-width:1.14045"
        r="7.25" />
     <circle
        id="path346-4-8"
        cx="7.25"
        cy="43.279999"
-       style="display:inline;fill:#ffcc00;stroke-width:1.14045"
+       style="display:inline;fill:#c837ab;stroke-width:1.14045"
        r="7.25" />
     <circle
        id="path346-4-8-2"
        cx="29.669996"
        cy="43.279999"
-       style="display:inline;fill:#ffcc00;stroke-width:1.14045"
+       style="display:inline;fill:#c837ab;stroke-width:1.14045"
        r="7.25" />
   </g>
 </svg>
